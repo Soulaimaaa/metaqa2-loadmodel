@@ -1,0 +1,12 @@
+/model_data
+/seq2seq_converter
+/qa_agents
+/qa_agents.zip
+**/*.jsonl
+**/*.json
+**/__pycache__
+**/.DS_Store
+**/*.txt
+**/*.neptune
+**/*.tsv
+**/*.zip
